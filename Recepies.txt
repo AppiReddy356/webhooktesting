@@ -4,6 +4,7 @@ keer
 pasta
 chicken fry
 
-
+beans 
+pizza
 
 thank you.
