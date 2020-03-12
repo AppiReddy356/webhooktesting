@@ -6,3 +6,6 @@ chicken fry
 
 beans 
 pizza
+biryani
+added more recepies
+done my changes
